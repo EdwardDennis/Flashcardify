@@ -1,0 +1,33 @@
+{
+  "name": "Flashcardify",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-community/slider": "^4.4.2",
+    "expo": "~48.0.18",
+    "expo-constants": "^14.2.1",
+    "expo-permissions": "^14.1.1",
+    "expo-speech": "^11.1.1",
+    "expo-status-bar": "~1.4.4",
+    "install": "^0.13.0",
+    "npm": "^9.6.7",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-elements": "^3.4.3",
+    "react-native-paper": "^5.8.0",
+    "react-native-svg-charts": "^5.4.0",
+    "react-native-tts": "^4.1.0",
+    "react-native-vector-icons": "^9.2.0",
+    "victory-native": "^36.6.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
